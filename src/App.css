@@ -1,0 +1,8 @@
+body {
+  font-family: "Epilogue";
+}
+@font-face {
+  font-family: "Epilogue";
+  src: url(./fonts/Epilogue/Epilogue-VariableFont_wght.ttf), 
+  url(./fonts/Epilogue/Epilogue-Italic-VariableFont_wght.ttf);
+}
